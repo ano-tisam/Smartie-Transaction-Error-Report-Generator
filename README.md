@@ -1,0 +1,3 @@
+This application is a Transaction Report Generator, designed to streamline the process of creating consistent and professional-looking reports for specific types of user transactions.
+
+It's a simple, single-page web app that takes user-provided data—including a name, amount, date, and transaction and wallet IDs—and automatically formats it into a standardized report sentence. The app helps prevent manual errors and ensures uniformity in documentation. Once generated, the sentence can be easily copied to the clipboard with a single click, making it a handy tool for support teams or individuals who handle frequent transaction inquiries.
